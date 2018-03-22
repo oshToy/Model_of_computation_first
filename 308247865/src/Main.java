@@ -7,7 +7,7 @@ public class Main implements Submission, Assignment1 {
 
 	@Override
 	public List<String> submittingStudentIds() {
-		return Arrays.asList("308247865", "204004055");
+		return Arrays.asList("308247865", "204004055","");
 	}
 
 	@Override
